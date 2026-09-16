@@ -1,0 +1,608 @@
+2026-09-12 17:18:17.312 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:18:17.313 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:18:17.313 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:19:19.537 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:19:19.546 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:19:19.707 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:19:23.824 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:19:23.845 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Selecting Multi City trip option...
+2026-09-12 17:19:23.845 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:19:27.967 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:19:43.626 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Attached failure screenshot to report on failed step.
+2026-09-12 17:19:43.680 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured failure screenshot: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/screenshots/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_171943629.png
+2026-09-12 17:19:43.697 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured raw DOM state dump: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/dom-dumps/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_171943680.html
+2026-09-12 17:19:43.748 [TestNG-PoolService-1] ERROR com.automation.utils.Log - [Thread: 39] Scenario [Validate dynamic rendering of additional multi-city flight rows and capture itinerary data] marked as FAILED. State saved to disk.
+2026-09-12 17:19:43.830 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:19:43.831 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:19:43.831 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:19:43.831 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:19:43.833 [TestNG-PoolService-1] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 2 of 3
+2026-09-12 17:19:43.836 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:19:43.836 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:19:43.836 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:19:44.406 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:19:44.407 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:19:44.514 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:19:48.623 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:19:48.641 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Selecting Multi City trip option...
+2026-09-12 17:19:48.642 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:19:52.756 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:20:08.259 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Attached failure screenshot to report on failed step.
+2026-09-12 17:20:08.315 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured failure screenshot: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/screenshots/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_172008261.png
+2026-09-12 17:20:08.327 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured raw DOM state dump: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/dom-dumps/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_172008315.html
+2026-09-12 17:20:08.383 [TestNG-PoolService-1] ERROR com.automation.utils.Log - [Thread: 39] Scenario [Validate dynamic rendering of additional multi-city flight rows and capture itinerary data] marked as FAILED. State saved to disk.
+2026-09-12 17:20:08.464 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:20:08.464 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:20:08.464 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:20:08.464 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:20:08.465 [TestNG-PoolService-1] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 3 of 3
+2026-09-12 17:20:08.466 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:20:08.466 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:20:08.467 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:20:09.036 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:20:09.038 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:20:09.122 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:20:13.229 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:20:13.246 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Selecting Multi City trip option...
+2026-09-12 17:20:13.246 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:20:17.341 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:20:32.783 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Attached failure screenshot to report on failed step.
+2026-09-12 17:20:32.849 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured failure screenshot: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/screenshots/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_172032786.png
+2026-09-12 17:20:32.860 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Captured raw DOM state dump: /Users/shiva/Documents/Py/makemytrip-cucumber-testng-framework/target/dom-dumps/Validate_dynamic_rendering_of_additional_multi-city_flight_rows_and_capture_itinerary_data_20260912_172032849.html
+2026-09-12 17:20:32.913 [TestNG-PoolService-1] ERROR com.automation.utils.Log - [Thread: 39] Scenario [Validate dynamic rendering of additional multi-city flight rows and capture itinerary data] marked as FAILED. State saved to disk.
+2026-09-12 17:20:32.994 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:20:32.995 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:20:32.995 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:20:32.995 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:36:35.940 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:36:35.940 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:36:35.941 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:36:35.942 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:36:35.942 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:36:35.942 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:36:37.492 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:36:37.492 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Initialized ChromeDriver instance successfully for Thread ID: 38
+2026-09-12 17:36:37.498 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:36:37.498 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Navigating directly to: https://www.amazon.in
+2026-09-12 17:36:37.804 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:36:37.805 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Searching Amazon.in for: amaze fit max bip
+2026-09-12 17:36:41.210 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Clicking Amazon.in search icon
+2026-09-12 17:36:41.890 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:36:41.908 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Selecting Multi City trip option...
+2026-09-12 17:36:41.908 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:36:42.998 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Checking if Amazon search result includes the requested Bip Max product description.
+2026-09-12 17:36:43.154 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:36:43.234 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Terminated WebDriver instance cleanly for Thread ID: 38
+2026-09-12 17:36:43.234 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:36:43.234 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:36:43.234 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:36:46.008 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:37:01.395 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Error capturing step failure screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.stepdefinitions.Hooks.afterStep(Hooks.java:29) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:56) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:01.407 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Teardown capture error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52ac039f9f5d689819c390504da671dd, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49993}, goog:processID: 7256, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49993/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 52ac039f9f5d689819c390504da671dd
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.utils.ScreenshotUtil.captureScreenshotAsFile(ScreenshotUtil.java:42) ~[classes/:?]
+	at com.automation.stepdefinitions.Hooks.tearDown(Hooks.java:45) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:81) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:01.494 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:37:01.494 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:01.494 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:37:01.494 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:01.495 [TestNG-PoolService-2] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 2 of 3
+2026-09-12 17:37:01.499 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:01.499 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:37:01.499 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:02.053 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:37:02.054 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:37:02.157 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:37:06.281 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:37:06.297 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Error capturing step failure screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997 - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.stepdefinitions.Hooks.afterStep(Hooks.java:29) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:56) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:105) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:06.303 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Teardown capture error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997 - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d6aff5b190d37f6563763fab331fd997, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50011}, goog:processID: 7329, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50011/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6aff5b190d37f6563763fab331fd997
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.utils.ScreenshotUtil.captureScreenshotAsFile(ScreenshotUtil.java:42) ~[classes/:?]
+	at com.automation.stepdefinitions.Hooks.tearDown(Hooks.java:45) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:105) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:06.387 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:37:06.387 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:06.387 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:37:06.387 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:06.388 [TestNG-PoolService-2] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 3 of 3
+2026-09-12 17:37:06.390 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:06.390 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:37:06.390 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:06.854 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:37:06.855 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Navigating directly to: https://www.makemytrip.com
+2026-09-12 17:37:06.967 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Dismissing any intrusive modals or backdrop dialogs...
+2026-09-12 17:37:11.031 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] No interactive close-button modals surfaced within the threshold.
+2026-09-12 17:37:11.046 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Error capturing step failure screenshot: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.stepdefinitions.Hooks.afterStep(Hooks.java:29) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:56) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:105) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:11.052 [TestNG-PoolService-2] ERROR com.automation.utils.Log - [Thread: 39] Teardown capture error: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d - Exception: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d
+org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=153.0.8010.36)
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.6.2', java.version: '26.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [415980368de4983e1542667a7cb90f7d, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 153.0.8010.36, chrome: {chromedriverVersion: 153.0.8010.36 (507c6ee3e2f3..., userDataDir: /var/folders/xx/3ycq9ch576l...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50021}, goog:processID: 7368, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50021/devtoo..., se:cdpVersion: 153.0.8010.36, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:cmtgKey: true, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 415980368de4983e1542667a7cb90f7d
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:483) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:622) ~[selenium-remote-driver-4.26.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:334) ~[selenium-remote-driver-4.26.0.jar:?]
+	at com.automation.utils.ScreenshotUtil.captureScreenshotAsFile(ScreenshotUtil.java:42) ~[classes/:?]
+	at com.automation.stepdefinitions.Hooks.tearDown(Hooks.java:45) [test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:64) [cucumber-java-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:47) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:81) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:53) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:90) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:135) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:136) [cucumber-core-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:132) [cucumber-testng-7.20.1.jar:7.20.1]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) [cucumber-testng-7.20.1.jar:7.20.1]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestInvoker.retryFailed(TestInvoker.java:269) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.invokers.TestMethodWithDataProviderMethodWorker.call(TestMethodWithDataProviderMethodWorker.java:105) [testng-7.10.2.jar:7.10.2]
+	at org.testng.internal.thread.Async$AsyncTask.run(Async.java:34) [testng-7.10.2.jar:7.10.2]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1090) [?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614) [?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1516) [?:?]
+2026-09-12 17:37:11.135 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:37:11.136 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:37:11.136 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Validate dynamic rendering of additional multi-city flight rows and capture itinerary data
+2026-09-12 17:37:11.136 [TestNG-PoolService-2] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:39.997 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:39.998 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:39.998 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:40.677 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:41:40.685 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:41:40.772 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:41:40.772 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:40.772 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:40.772 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:40.775 [TestNG-PoolService-1] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 2 of 3
+2026-09-12 17:41:40.778 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:40.778 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:40.778 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.173 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:41:41.179 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:41:41.266 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:41:41.266 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.267 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:41.267 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.267 [TestNG-PoolService-1] WARN  com.automation.utils.Log - [Thread: 39] Retrying failed test: runScenario | Attempt 3 of 3
+2026-09-12 17:41:41.269 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.269 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:41.269 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.704 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:41:41.707 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:41:41.786 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:41:41.787 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:41:41.787 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:41:41.787 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:42:07.204 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:42:07.205 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:42:07.205 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:42:07.985 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:42:07.991 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating to Amazon India page: https://www.amazon.in
+2026-09-12 17:42:10.359 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Searching Amazon.in for: amaze fit max bip
+2026-09-12 17:42:10.445 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Clicking Amazon.in search icon
+2026-09-12 17:42:12.217 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Checking if Amazon search result contains requested product description.
+2026-09-12 17:42:12.366 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:42:12.449 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:42:12.449 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:42:12.449 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:42:12.449 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:45:21.141 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:45:21.142 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:45:21.142 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:45:21.882 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:45:21.887 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating to Amazon India page: https://www.amazon.in
+2026-09-12 17:45:24.120 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Searching Amazon.in for: amaze fit max bip
+2026-09-12 17:45:24.204 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Clicking Amazon.in search icon
+2026-09-12 17:45:25.902 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Checking if Amazon search result contains requested product description.
+2026-09-12 17:45:26.036 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:45:26.122 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:45:26.122 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:45:26.122 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:45:26.122 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:47:37.535 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:47:37.536 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:47:37.536 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:47:38.235 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Initialized ChromeDriver instance successfully for Thread ID: 39
+2026-09-12 17:47:38.241 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Navigating to Amazon India page: https://www.amazon.in
+2026-09-12 17:47:39.924 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Searching Amazon.in for: amaze fit max bip
+2026-09-12 17:47:40.019 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Clicking Amazon.in search icon
+2026-09-12 17:47:41.546 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Checking if Amazon search result contains requested product description.
+2026-09-12 17:47:41.701 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:47:41.786 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] Terminated WebDriver instance cleanly for Thread ID: 39
+2026-09-12 17:47:41.786 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:47:41.787 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:47:41.787 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 39] ==========================================================================================
+2026-09-12 17:48:40.842 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:48:40.843 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] STARTING SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:48:40.843 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:48:41.530 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Initialized ChromeDriver instance successfully for Thread ID: 38
+2026-09-12 17:48:41.536 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Navigating to Amazon India page: https://www.amazon.in
+2026-09-12 17:48:43.007 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Searching Amazon.in for: amaze fit max bip
+2026-09-12 17:48:43.083 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Clicking Amazon.in search icon
+2026-09-12 17:48:44.745 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Checking if Amazon search result contains requested product description.
+2026-09-12 17:48:44.886 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Scenario [Verify the Amazon India search result contains the requested Bip Max smartwatch description] marked as PASSED.
+2026-09-12 17:48:44.970 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] Terminated WebDriver instance cleanly for Thread ID: 38
+2026-09-12 17:48:44.971 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================
+2026-09-12 17:48:44.971 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] COMPLETED SCENARIO: Verify the Amazon India search result contains the requested Bip Max smartwatch description
+2026-09-12 17:48:44.971 [TestNG-PoolService-1] INFO  com.automation.utils.Log - [Thread: 38] ==========================================================================================

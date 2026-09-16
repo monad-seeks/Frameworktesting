@@ -1,0 +1,6 @@
+com/automation/utils/DBUtil.class
+com/automation/pages/AmazonPage.class
+com/automation/driver/DriverManager.class
+com/automation/utils/ExcelUtil.class
+com/automation/utils/ScreenshotUtil.class
+com/automation/utils/Log.class

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <documentTitle>Amazon Test Automation Execution Report</documentTitle>
+        <reportName>Regression Execution - Amazon Search</reportName>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+    </configuration>
+</extentreports>
